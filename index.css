@@ -48,10 +48,9 @@ a {
 main {
   margin: 0 auto;
   width: 80%;
-  height: 1024px;
 }
 
-.article_area {
+#article_area {
   margin: 80px;
 }
 
@@ -72,4 +71,9 @@ article {
 
 .first_bold {
   font-size: 20pt;
+}
+
+footer {
+  height: 200px;
+  background-color: gray;
 }
